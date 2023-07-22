@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="name_hanni">Hanni (하니)</string>
+    <string name="name_haerin">Haerin (해린)</string>
+    <string name="name_minji">Minji (민지)</string>
+    <string name="name_hyein">Hyein (혜인)</string>
+    <string name="name_danielle">Danielle (다니엘)</string>
+    <string name="name_newjeans">NewJeans</string>
+
+    <string name="birth_hanni">6 Oktober 2004</string>
+    <string name="birth_haerin">15 Mei 2006</string>
+    <string name="birth_minji">7 Mei 2004</string>
+    <string name="birth_hyein">21 April 2008</string>
+    <string name="birth_danielle">11 April 2005</string>
+    <string name="birth_newjeans">2022</string>
+</resources>
